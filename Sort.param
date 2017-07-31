@@ -1,0 +1,3 @@
+path_input=E:\my\sorting-test\unsort-250m.txt;                               
+path_output=E:\my\sorting-test\unsort-250m-result.txt;                      
+num_thread=4;                                                            
